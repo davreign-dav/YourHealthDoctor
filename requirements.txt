@@ -4,7 +4,6 @@ dj-database-url==1.2.0
 Django==4.1.6
 django-environ==0.9.0
 gunicorn==20.1.0
-https://files.pythonhosted.org/packages/fc/51/0f2c6aec5c59e5640f507b59567f63b9d73a9317898810b4db311da32dfc/psycopg2-binary-2.8.6.tar.gz
 sqlparse==0.4.3
 tzdata==2022.7
 absl-py==0.15.0
